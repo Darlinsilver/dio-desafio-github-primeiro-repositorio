@@ -1,3 +1,4 @@
+Comandos básicos do GitBash com suas descrições:
 
 git init: inicializa um repositório local git
 git status: verifica o estado dos seus arquivos
